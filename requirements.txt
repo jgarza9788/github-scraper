@@ -1,0 +1,4 @@
+beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650293025093/work
+pandas==1.4.3
+selenium==3.141.0
+selenium-wire==3.0.6

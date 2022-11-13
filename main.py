@@ -81,7 +81,7 @@ class get_github():
                     item['link'] = "https://github.com" + s.find_all('a', href=True)[0]['href']
 
 
-                    item['languages'] = []
+                    item['tags'] = []
 
                     response = requests.get(url=item['link'], headers={
                         "accept":"text/html, application/xhtml+xml",
@@ -96,7 +96,7 @@ class get_github():
 
                     for  i in s:
                         # print(i)
-                        item['languages'].append(i.text)
+                        item['tags'].append(i.text)
 
                     # print(item)
                     data.append(item)
@@ -121,7 +121,8 @@ class get_github():
         # return result
 
         file = os.path.join(self.directory,"output.json")
-        json.dump(data, file, indent = 6)
+        with open(file, 'w',encoding="utf-8") as f:
+            json.dump(data, f, indent = 6)
 
         file = os.path.join(self.directory,"output.csv")
         pd.DataFrame(data).to_csv(file)
@@ -131,11 +132,6 @@ class get_github():
 
 
 if __name__ == "__main__":
-
-    # print(__file__)
-    # print(os.path.realpath(__file__))
-    # print(os.path.dirname(os.path.realpath(__file__)))
-
     ggh = get_github(repo_link="https://github.com/jgarza9788?tab=repositories",visible=False)
     ggh.scrape()
 
