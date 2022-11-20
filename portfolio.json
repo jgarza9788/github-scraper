@@ -1,0 +1,183 @@
+[
+      {
+            "link": "https://github.com/jgarza9788/GaussianBlur_URP_Demo",
+            "name": "GaussianBlur_URP_Demo",
+            "tags": [
+                  "c-sharp",
+                  "webgl",
+                  "opengl",
+                  "unity",
+                  "shaders",
+                  "glsl",
+                  "shader",
+                  "unity3d",
+                  "glsl-shaders",
+                  "shaderlab"
+            ],
+            "desc": "A screen blur effect for Unity and C#"
+      },
+      {
+            "link": "https://github.com/jgarza9788/color_extractor",
+            "name": "color_extractor",
+            "tags": [
+                  "javascript",
+                  "css",
+                  "python",
+                  "html",
+                  "flask",
+                  "html5",
+                  "css3",
+                  "python3",
+                  "webapp",
+                  "flask-application",
+                  "flask-web",
+                  "flask-api",
+                  "html-css-javascript",
+                  "flask-sqlalchemy",
+                  "flask-restful"
+            ],
+            "desc": "Extracts the color from an Image. Built with Python and Flask."
+      },
+      {
+            "link": "https://github.com/jgarza9788/VPNTools",
+            "name": "VPNTools",
+            "tags": [
+                  "python",
+                  "openvpn",
+                  "networking",
+                  "log",
+                  "powershell",
+                  "python3",
+                  "vpn",
+                  "batch-script",
+                  "nerd-fonts",
+                  "nordvpn"
+            ],
+            "desc": "just some scripts i use to manage my VPN (NordVPN)"
+      },
+      {
+            "link": "https://github.com/jgarza9788/AsteroidNavigator_Demo",
+            "name": "AsteroidNavigator_Demo",
+            "tags": [
+                  "game",
+                  "c-sharp",
+                  "unity",
+                  "game-development",
+                  "effects",
+                  "gamedesign"
+            ],
+            "desc": "A cute little game made with Unity and C#."
+      },
+      {
+            "link": "https://github.com/jgarza9788/HashTag_Sentiment",
+            "name": "HashTag_Sentiment",
+            "tags": [
+                  "python",
+                  "nlp",
+                  "flask",
+                  "ai",
+                  "twitter-api",
+                  "ml",
+                  "python3",
+                  "flask-application",
+                  "api-rest",
+                  "flask-web",
+                  "flask-api",
+                  "html-css-javascript",
+                  "nlp-machine-learning",
+                  "flask-sqlalchemy",
+                  "flask-restful"
+            ],
+            "desc": "Gets the hashtag data from twitter along with the sentiment. Built with Flask, Python, along with APIs for HashTag data and Sentiment."
+      },
+      {
+            "link": "https://github.com/jgarza9788/github-scraper",
+            "name": "github-scraper",
+            "tags": [
+                  "python",
+                  "selenium",
+                  "python3",
+                  "selenium-webdriver",
+                  "webscraping",
+                  "selenium-python",
+                  "beautifulsoup4"
+            ],
+            "desc": "scrapes all my public github projects in your stars/portfolio list. using python and selenium!"
+      },
+      {
+            "link": "https://github.com/jgarza9788/todo_app_flask_python",
+            "name": "todo_app_flask_python",
+            "tags": [
+                  "python",
+                  "flask",
+                  "python3",
+                  "flask-application",
+                  "flask-web",
+                  "flask-api",
+                  "html-css-javascript",
+                  "flask-sqlalchemy",
+                  "flask-restful"
+            ],
+            "desc": "A basic todo app, written in python using the flask workflow."
+      },
+      {
+            "link": "https://github.com/jgarza9788/JelloShot_Demo",
+            "name": "JelloShot_Demo",
+            "tags": [
+                  "game",
+                  "c-sharp",
+                  "unity",
+                  "game-development",
+                  "unity3d",
+                  "unity2d",
+                  "c-sharp-unity"
+            ],
+            "desc": "A cute little game made with Unity and C#."
+      },
+      {
+            "link": "https://github.com/jgarza9788/DataAnalytics_NLSY97",
+            "name": "DataAnalytics_NLSY97",
+            "tags": [
+                  "python",
+                  "data-science",
+                  "plotly",
+                  "jupyter-notebook",
+                  "data-visualization",
+                  "python3",
+                  "seaborn",
+                  "matplotlib",
+                  "colab-notebook"
+            ],
+            "desc": "Analyzing the data for earnings based on the data in the NLSY97 dataset."
+      },
+      {
+            "link": "https://github.com/jgarza9788/DataAnalytics_SpaceMissions",
+            "name": "DataAnalytics_SpaceMissions",
+            "tags": [
+                  "python",
+                  "data-science",
+                  "plotly",
+                  "jupyter-notebook",
+                  "data-visualization",
+                  "python3",
+                  "seaborn",
+                  "matplotlib",
+                  "colab-notebook"
+            ],
+            "desc": "Analyzing the data from the Space Missions."
+      },
+      {
+            "link": "https://github.com/jgarza9788/ShockWave_URP_Demo",
+            "name": "ShockWave_URP_Demo",
+            "tags": [
+                  "c-sharp",
+                  "unity",
+                  "animation",
+                  "shader",
+                  "unity3d",
+                  "shaderlab",
+                  "shadergraph"
+            ],
+            "desc": "A shock wave effect for Unity3d"
+      }
+]

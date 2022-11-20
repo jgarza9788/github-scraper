@@ -1,41 +1,12 @@
-,name,link,tags
-0,github-scraper,https://github.com/jgarza9788/github-scraper,['Python']
-1,stable-diffusion-webui,https://github.com/jgarza9788/stable-diffusion-webui,"['Python', 'JavaScript', 'CSS', 'Other']"
-2,Python_Pro_Bootcamp,https://github.com/jgarza9788/Python_Pro_Bootcamp,"['Jupyter Notebook', 'CSS', 'Python', 'HTML', 'JavaScript', 'SCSS']"
-3,recipes,https://github.com/jgarza9788/recipes,['Python']
-4,VPNTools,https://github.com/jgarza9788/VPNTools,"['Python', 'Batchfile', 'PowerShell']"
-5,PyRoboCopy,https://github.com/jgarza9788/PyRoboCopy,"['Python', 'Jupyter Notebook', 'PowerShell', 'Batchfile']"
-6,jgarza9788,https://github.com/jgarza9788/jgarza9788,[]
-7,ASIF,https://github.com/jgarza9788/ASIF,['Python']
-8,jgarza-blog,https://github.com/jgarza9788/jgarza-blog,"['JavaScript', 'HTML', 'SCSS', 'CSS', 'Python']"
-9,personal_financial_report-public_version-,https://github.com/jgarza9788/personal_financial_report-public_version-,"['Jupyter Notebook', 'Batchfile']"
-10,VAERS,https://github.com/jgarza9788/VAERS,"['Jupyter Notebook', 'Python']"
-11,clean_jellyfin_images,https://github.com/jgarza9788/clean_jellyfin_images,['Python']
-12,autoHandbreak,https://github.com/jgarza9788/autoHandbreak,['Python']
-13,.config,https://github.com/jgarza9788/.config,['PowerShell']
-14,cs_analyzer,https://github.com/jgarza9788/cs_analyzer,"['C#', 'Python', 'TypeScript', 'JavaScript', 'HTML', 'CSS']"
-15,WindowsFormsApp_helloworld,https://github.com/jgarza9788/WindowsFormsApp_helloworld,['C#']
-16,blacktree,https://github.com/jgarza9788/blacktree,"['Python', 'Batchfile']"
-17,Olive_4Up_Template,https://github.com/jgarza9788/Olive_4Up_Template,[]
-18,streamlit_tutorials_and_demos,https://github.com/jgarza9788/streamlit_tutorials_and_demos,['Python']
-19,blockedsite,https://github.com/jgarza9788/blockedsite,"['HTML', 'CSS']"
-20,Rainy,https://github.com/jgarza9788/Rainy,['Python']
-21,quark,https://github.com/jgarza9788/quark,"['JavaScript', 'CSS', 'HTML', 'Shell']"
-22,desktoplist,https://github.com/jgarza9788/desktoplist,['Python']
-23,wordle_filter,https://github.com/jgarza9788/wordle_filter,"['Python', 'Batchfile']"
-24,wordlegame,https://github.com/jgarza9788/wordlegame,"['Python', 'Batchfile']"
-25,MovieRoulette,https://github.com/jgarza9788/MovieRoulette,['Python']
-26,MyAutoHotKeyScript,https://github.com/jgarza9788/MyAutoHotKeyScript,"['AutoHotkey', 'VBScript']"
-27,NewTabPage,https://github.com/jgarza9788/NewTabPage,"['JavaScript', 'CSS', 'HTML']"
-28,HackerRankCode,https://github.com/jgarza9788/HackerRankCode,"['Python', 'Java']"
-29,powershell,https://github.com/jgarza9788/powershell,['PowerShell']
-30,github-scraper,https://github.com/jgarza9788/github-scraper,['Python']
-31,stable-diffusion-webui,https://github.com/jgarza9788/stable-diffusion-webui,"['Python', 'JavaScript', 'CSS', 'Other']"
-32,Python_Pro_Bootcamp,https://github.com/jgarza9788/Python_Pro_Bootcamp,"['Jupyter Notebook', 'CSS', 'Python', 'HTML', 'JavaScript', 'SCSS']"
-33,flutter_dicey,https://github.com/jgarza9788/flutter_dicey,"['Dart', 'HTML', 'Objective-C', 'Java', 'Shell', 'Swift', 'Kotlin']"
-34,fairsource,https://github.com/jgarza9788/fairsource,"['HTML', 'CSS', 'Makefile']"
-35,threejs-webgl-scrolling-images,https://github.com/jgarza9788/threejs-webgl-scrolling-images,"['JavaScript', 'HTML', 'GLSL']"
-36,contact_converter,https://github.com/jgarza9788/contact_converter,['Python']
-37,Unity3D-Shaders-Basic,https://github.com/jgarza9788/Unity3D-Shaders-Basic,['ShaderLab']
-38,FontAppCSharp,https://github.com/jgarza9788/FontAppCSharp,['C#']
-39,FontApp,https://github.com/jgarza9788/FontApp,['Java']
+,link,name,tags,desc
+0,https://github.com/jgarza9788/GaussianBlur_URP_Demo,GaussianBlur_URP_Demo,"['c-sharp', 'webgl', 'opengl', 'unity', 'shaders', 'glsl', 'shader', 'unity3d', 'glsl-shaders', 'shaderlab']",A screen blur effect for Unity and C#
+1,https://github.com/jgarza9788/color_extractor,color_extractor,"['javascript', 'css', 'python', 'html', 'flask', 'html5', 'css3', 'python3', 'webapp', 'flask-application', 'flask-web', 'flask-api', 'html-css-javascript', 'flask-sqlalchemy', 'flask-restful']",Extracts the color from an Image. Built with Python and Flask.
+2,https://github.com/jgarza9788/VPNTools,VPNTools,"['python', 'openvpn', 'networking', 'log', 'powershell', 'python3', 'vpn', 'batch-script', 'nerd-fonts', 'nordvpn']",just some scripts i use to manage my VPN (NordVPN)
+3,https://github.com/jgarza9788/AsteroidNavigator_Demo,AsteroidNavigator_Demo,"['game', 'c-sharp', 'unity', 'game-development', 'effects', 'gamedesign']",A cute little game made with Unity and C#.
+4,https://github.com/jgarza9788/HashTag_Sentiment,HashTag_Sentiment,"['python', 'nlp', 'flask', 'ai', 'twitter-api', 'ml', 'python3', 'flask-application', 'api-rest', 'flask-web', 'flask-api', 'html-css-javascript', 'nlp-machine-learning', 'flask-sqlalchemy', 'flask-restful']","Gets the hashtag data from twitter along with the sentiment. Built with Flask, Python, along with APIs for HashTag data and Sentiment."
+5,https://github.com/jgarza9788/github-scraper,github-scraper,"['python', 'selenium', 'python3', 'selenium-webdriver', 'webscraping', 'selenium-python', 'beautifulsoup4']",scrapes all my public github projects in your stars/portfolio list. using python and selenium!
+6,https://github.com/jgarza9788/todo_app_flask_python,todo_app_flask_python,"['python', 'flask', 'python3', 'flask-application', 'flask-web', 'flask-api', 'html-css-javascript', 'flask-sqlalchemy', 'flask-restful']","A basic todo app, written in python using the flask workflow."
+7,https://github.com/jgarza9788/JelloShot_Demo,JelloShot_Demo,"['game', 'c-sharp', 'unity', 'game-development', 'unity3d', 'unity2d', 'c-sharp-unity']",A cute little game made with Unity and C#.
+8,https://github.com/jgarza9788/DataAnalytics_NLSY97,DataAnalytics_NLSY97,"['python', 'data-science', 'plotly', 'jupyter-notebook', 'data-visualization', 'python3', 'seaborn', 'matplotlib', 'colab-notebook']",Analyzing the data for earnings based on the data in the NLSY97 dataset.
+9,https://github.com/jgarza9788/DataAnalytics_SpaceMissions,DataAnalytics_SpaceMissions,"['python', 'data-science', 'plotly', 'jupyter-notebook', 'data-visualization', 'python3', 'seaborn', 'matplotlib', 'colab-notebook']",Analyzing the data from the Space Missions.
+10,https://github.com/jgarza9788/ShockWave_URP_Demo,ShockWave_URP_Demo,"['c-sharp', 'unity', 'animation', 'shader', 'unity3d', 'shaderlab', 'shadergraph']",A shock wave effect for Unity3d
